@@ -1,0 +1,74 @@
+.logo {
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  margin: -150px 0 0 -150px;
+  text-align: center;
+  padding :2px;
+  }
+  .pc {
+  position: absolute;
+  top: 55%;
+  right: 63%;
+  margin: -150px 0 0 -150px;
+  width: -10%; 
+   height: 25%;
+  }
+  .pic {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+    width: 10%; 
+     height: 25%;
+    }
+  .piic {
+    position: absolute;
+    top: 55%;
+    left: 75%;
+    margin: -150px 0 0 -150px;
+    width: 10%; 
+    height: 25%;
+    }
+    .pic21 {
+      position: absolute;
+      top: 120%;
+      left: 40%;
+      margin: -150px 0 0 -150px;
+      width: 10%; 
+       height: 25%;
+      }
+      .pic23 {
+        position: absolute;
+        top: 120%;
+        left: 62%;
+        margin: -150px 0 0 -150px;
+        width: 10%; 
+         height: 25%;
+        }
+        .pic24 {
+          position: absolute;
+          top: 120%;
+          left: 84%;
+          margin: -150px 0 0 -150px;
+          width: 10%; 
+           height: 25%;
+          }
+  
+      .pic22 {
+        position: absolute;
+        top: 120%;
+        right: 72%;
+        margin: -150px 0 0 -150px;
+        width: -10%; 
+         height: 25%;
+        }
+  .head {
+    display: flex;
+    flex:1;
+  }
+  .butonsubribe{
+    position: absolute;
+    top: 35%;
+    left: 30%;
+  }
